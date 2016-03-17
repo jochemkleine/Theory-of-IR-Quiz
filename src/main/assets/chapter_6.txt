@@ -1,0 +1,162 @@
+
+Type: multiple choice question
+Title: Chapter 06 - Question 01
+01) Proponents of raison d'état argue that the state itself represents a moral force.
+*a. True
+@  Correct 
+b. False
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 02
+02) The realism that emerged after the end of the Second World War was an entirely new approach with a different set of core assumptions.
+a. True
+@  Incorrect 
+*b. False
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 03
+03) Realism has been a minor theory of world politics since the beginning of academic international relations.
+a. True
+@  Incorrect 
+*b. False
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 04
+04) Offensive realism proposes that the structure of the international system compels states to maximize their relative power position.
+*a. True
+@  Correct 
+b. False
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 05
+05) Structural realists argue that states are more concerned about absolute rather than relative gains.
+a. True
+@  Incorrect 
+*b. False
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 06
+06) The lineage of classical realism is said to have begun with:
+a. Niccolo Machiavelli.
+@  Incorrect 
+*b. Thucydides.
+@  Correct 
+c. Hans Morgenthau.
+@  Incorrect
+d. Kenneth Waltz.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 07
+07) The code of conduct that state leaders should follow in their foreign affairs is known as:
+a. survival.
+@  Incorrect 
+b. self-help.
+@  Incorrect 
+c. raison d'être.
+@  Incorrect 
+*d. raison d'état.
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 08
+08) The condition of the international system, having no overarching central authority above the individual collection of sovereign states, is known as:
+*a. anarchy.
+@  Correct 
+b. political community.
+@  Incorrect 
+c. international system.
+@  Incorrect 
+d. sovereignty.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 09
+09) Classical realism represents power politics as a result of:
+a. international relations.
+@  Incorrect 
+b. state sovereignty.
+@  Incorrect
+*c. human behaviour.
+@  Correct 
+d. anarchy.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 10
+10) Defensive realism proposes that states are generally more concerned with:
+*a. security.
+@  Correct 
+b. zero-sum game.
+@  Incorrect
+c. absolute gains.
+@  Incorrect 
+d. relative gains.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 11
+11) A branch of modern realism that sees institutions as playing an important role is called:
+a. rational choice realism.
+@  Incorrect 
+*b. neo-classical realism.
+@  Correct 
+c. neo-liberalism.
+@  Incorrect 
+d. neo-realism.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 12
+12) Kenneth Waltz tries to overcome the problem of realism's weak definition of the meaning of power by shifting the focus from power to:
+*a. capabilities.
+@  Correct 
+b. relative gains.
+@  Incorrect.
+c. sovereignty.
+@  Incorrect.
+d. cooperation.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 13
+13) Which of the following is not a pillar of essential realism?
+a. Statism
+@  Incorrect 
+*b. Sovereignty
+@  Correct 
+c. Survival
+@  Incorrect 
+d. Self-help
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 14
+14) The idea that the “strong do as they will and the weak accept what they must” comes from:
+a. Schweller.
+@  Incorrect 
+b. Machiavelli.
+@  Incorrect 
+c. game theory.
+@  Incorrect 
+*d. Thucydides.
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 06 - Question 15
+15) Kenneth Waltz argues that the key difference between domestic and international orders lies in their:
+a. wealth distribution.
+@  Incorrect 
+b. ideology.
+@  Incorrect 
+*c. structure.
+@  Correct 
+d. security.
+@  Incorrect 
+
+

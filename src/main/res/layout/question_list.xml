@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#E0E0E0"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dp">
+
+<com.example.jochemkleine.theoryofinternatrelationspractice.NestedListView
+    android:id="@+id/question_list"
+    android:name="com.example.jochemkleine.theoryofinternatrelationspractice.QuestionListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="6dp"
+    android:layout_marginBottom="16dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+    android:divider="@null"
+    android:horizontalSpacing="5dp"
+    android:dividerHeight="5dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:focusable="false"
+
+    app:layoutManager="LinearLayoutManager"
+    tools:context="com.example.jochemkleine.theoryofinternatrelationspractice.QuestionListActivity"
+    tools:listitem="@layout/question_list_content"
+    android:numColumns="1" />
+</android.support.v4.widget.NestedScrollView>

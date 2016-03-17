@@ -1,0 +1,160 @@
+Type: multiple choice question
+Title: Chapter 19 - Question 01
+01) A competing assessment of Liberal Institutionalist and Realist approaches to the analysis of regimes is that states operate in an anarchic international system.
+a. True
+@  Incorrect 
+*b. False
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 02
+02) In the absence of formal rules, there can be an expectation that informal rules will be observed. This suggests the existence of a tacit regime.
+*a. True
+@  Correct 
+b. False
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 03
+03) The IMF is an example of a dead-letter regime.
+a. True
+@  Incorrect 
+*b. False
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 04
+04) When theorizing regimes, realists focus on coordination as opposed to collaboration.
+*a. True
+@  Correct 
+b. False
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 05
+05) The ‘Prisoner’s Dilemma’ is a scenario in game theory illustrating the need for a regime.
+a. True
+@  Incorrect 
+*b. False
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 06
+06) Which of the following is not a common assumption of both liberal institutionalism and realism regarding regimes?
+a. States operate in an anarchic international system.
+@  Incorrect 
+b. States are unitary and rational actors.
+@  Incorrect 
+c. Regimes promote international order.
+@  Incorrect 
+*d. Regimes promote the common good.
+@  Correct.
+
+Type: multiple choice question
+Title: Chapter 19 - Question 07
+07) Krasner’s definition of regimes reveals that they are more than just sets of rules and it presupposes quite a high level of:
+a. cooperation.
+@  Incorrect 
+*b. institutionalization.
+@  Correct 
+c. coordination.
+@  Incorrect 
+d. collaboration.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 08
+08) A set of formal rules that have been brought into existence and yet are not expected to be adhered to is known as a ________ regime.
+*a. dead-letter
+@  Correct 
+b. full-blown
+@  Incorrect 
+c. tacit
+@  Incorrect 
+d. non-
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 09
+09) According to the author, the SALT 1 & 2 treaties are examples of ________ regimes.
+a. nuclear non-proliferation
+@  Incorrect 
+b. international
+@  Incorrect 
+*c. security
+@  Correct 
+d. cold war
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 10
+10) To develop a theoretical understanding of why the anarchic structure of the international system impedes regime formation, Liberal Institutionalists have turned to __________ for assistance.
+a. the ‘Prisoner’s Dilemma’ and game theory
+@  Incorrect 
+b. the ‘Pareto frontier’ and microeconomics
+@  Incorrect 
+c. macroeconomics and game theory
+@  Incorrect 
+*d. microeconomics and game theory
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 11
+11) When the market is not effective when it comes to producing ‘public goods’, such as roads and hospitals, this is known as:
+a. ‘public bads’.
+@  Incorrect 
+*b. market failure.
+@  Correct 
+c. recession.
+@  Incorrect 
+d. a dead-letter regime.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 12
+12) __________ is a branch of mathematics that has developed a very extensive study of strategic interaction.
+a. The Pareto formula
+@  Incorrect 
+b. Social calculus
+@  Incorrect 
+*c. Game theory
+@  Correct 
+d. Positivism
+@  Incorrect 
+
+
+Type: multiple choice question
+Title: Chapter 19 - Question 13
+13) Which of the following reflects actors following a tit for tat strategy?
+a. coordination.
+@  Incorrect 
+b. collaboration.
+@  Incorrect 
+c. reciprocity.
+@  Incorrect 
+*d. strategic interaction.
+@  Correct 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 14
+14) A scenario in game theory illustrating the need for collaboration strategy is known as:
+a. reciprocity.
+@  Incorrect 
+*b. the ‘Prisoner’s Dilemma’.
+@  Correct 
+c. the ‘Battle of the Sexes’.
+@  Incorrect 
+d. the ‘Pareto frontier’.
+@  Incorrect 
+
+Type: multiple choice question
+Title: Chapter 19 - Question 15
+15) Realists argue that liberal institutionalists ignore the importance of power when examining regimes.
+*a. True
+@  Correct 
+b. False
+@  Incorrect 
+
+
+
+
